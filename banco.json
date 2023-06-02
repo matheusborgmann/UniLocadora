@@ -1,0 +1,259 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "jean",
+      "email": "asdasd",
+      "telefone": "asdasd",
+      "cpf": "3235345"
+    },
+    {
+      "id": 2,
+      "nome": "Jean",
+      "email": "jean.lopes@ulife.com.br",
+      "telefone": "1231312312",
+      "cpf": "12313123123123"
+    },
+    {
+      "id": 3,
+      "nome": "sdfsdfsd",
+      "email": "sdf",
+      "telefone": "2w532",
+      "cpf": "345345"
+    },
+    {
+      "id": 4,
+      "nome": "sdfsdfsd",
+      "email": "sdf",
+      "telefone": "2w532",
+      "cpf": "345345"
+    },
+    {
+      "id": 5,
+      "nome": "dfdfgdf",
+      "email": "dfgdfg",
+      "telefone": "dfgdfg",
+      "cpf": "dfgdfg"
+    },
+    {
+      "id": 6,
+      "nome": "sdf",
+      "email": "",
+      "telefone": "sdf",
+      "cpf": "sdf"
+    },
+    {
+      "id": 7,
+      "nome": "vbd",
+      "email": "dfg",
+      "telefone": "dfg",
+      "cpf": "dfg"
+    },
+    {
+      "id": 8,
+      "nome": "dfbgdf",
+      "email": "dfg",
+      "telefone": "dfg",
+      "cpf": "dfg"
+    },
+    {
+      "id": 9,
+      "nome": "adasd",
+      "email": "asdasd",
+      "telefone": "asda",
+      "cpf": "asdasd"
+    },
+    {
+      "id": 10,
+      "nome": "adasd",
+      "email": "asdasd",
+      "telefone": "asda",
+      "cpf": "asdasd"
+    },
+    {
+      "id": 11,
+      "nome": "sdfsdf",
+      "email": "sdfs",
+      "telefone": "sdf",
+      "cpf": "sdfwsdf"
+    },
+    {
+      "id": 12,
+      "nome": "dfgd",
+      "email": "dfg",
+      "telefone": "dfg",
+      "cpf": "dfg"
+    },
+    {
+      "id": 13,
+      "nome": "fgh",
+      "email": "fgh",
+      "telefone": "fgh",
+      "cpf": "fgh"
+    },
+    {
+      "id": 14,
+      "nome": "sdfsd",
+      "email": "sdf",
+      "telefone": "sdf",
+      "cpf": "sdf"
+    },
+    {
+      "id": 15,
+      "nome": "Jean",
+      "email": "asd",
+      "telefone": "asd",
+      "cpf": "asd"
+    },
+    {
+      "id": 16,
+      "nome": "sfdgsdfg",
+      "email": "sfdgsdfg",
+      "telefone": "sdfgsdfg",
+      "cpf": "sdfgsdfg"
+    },
+    {
+      "id": 17,
+      "nome": "asdfasd",
+      "email": "asdasd",
+      "telefone": "asdasd",
+      "cpf": "asdasdas"
+    },
+    {
+      "id": 18,
+      "nome": "sdfsd",
+      "email": "sdf",
+      "telefone": "sdf",
+      "cpf": "sdf"
+    },
+    {
+      "id": 19,
+      "nome": "sdf",
+      "email": "sdf",
+      "telefone": "sdf",
+      "cpf": "sdf"
+    },
+    {
+      "id": 20,
+      "nome": "dfg",
+      "email": "dfg",
+      "telefone": "dfg",
+      "cpf": "dfg"
+    },
+    {
+      "id": 21,
+      "nome": "kkktfghfgh",
+      "email": "fgh",
+      "telefone": "fgh",
+      "cpf": "fgh"
+    },
+    {
+      "id": 22,
+      "nome": "dfg",
+      "email": "dfg",
+      "telefone": "dfg",
+      "cpf": "dfg"
+    },
+    {
+      "id": 23,
+      "nome": "er",
+      "email": "dfg",
+      "telefone": "dfg",
+      "cpf": "dfg"
+    },
+    {
+      "id": 24,
+      "nome": "asd",
+      "email": "asdasd@asdads.asd",
+      "telefone": "(23)42342.4323",
+      "cpf": "234234234"
+    },
+    {
+      "id": 25,
+      "nome": "dgfdfg",
+      "email": "dfg",
+      "telefone": "(__)_____.____",
+      "cpf": ""
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "O Poderoso Chefão",
+      "ano": 1972,
+      "genero": "Drama",
+      "diretor": "Francis Ford Coppola",
+      "atores": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "O Poderoso Chefão II",
+      "ano": 1974,
+      "genero": "Drama",
+      "diretor": "Francis Ford Coppola",
+      "atores": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall"
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "O Poderoso Chefão III",
+      "ano": 1990,
+      "genero": "Drama",
+      "diretor": "Francis Ford Coppola",
+      "atores": [
+        "Al Pacino",
+        "Diane Keaton",
+        "Andy Garcia"
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Cassino",
+      "ano": 1990,
+      "genero": "Drama",
+      "diretor": "Francis Ford Coppola",
+      "atores": [
+        "Diane Keaton",
+        "Andy Garcia"
+      ]
+    },
+    {
+      "titulo": "Tittle 1",
+      "diretor": "Afonso",
+      "ano": "2023",
+      "genero": "Terrort",
+      "atores": [
+        "matt",
+        " juiju"
+      ],
+      "id": 5
+    },
+    {
+      "titulo": "o pequeninho",
+      "diretor": "aaa",
+      "ano": "0aaaaaaaaaaa",
+      "genero": "aaaaaaaaaaaaaaa",
+      "atores": [
+        "aaaaaaaaaaa"
+      ],
+      "id": 6
+    }
+  ],
+  "generos": [
+    "Drama",
+    "Comédia",
+    "Ação",
+    "Terror",
+    "Suspense"
+  ],
+  "carrinho":[
+    
+  ]
+}
